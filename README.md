@@ -1,3 +1,5 @@
+Terraform 
+
 =======terraform main.tf=============================
 
 
@@ -45,7 +47,7 @@ resource "aws_security_group" "k8s_sg" {
 
 
 
---Ansible
+Ansible
 ===============Ansible Installation===============================
 sudo apt update -y 
 sudo apt install software-properties-common
@@ -180,9 +182,6 @@ sudo sysctl -w net.ipv4.ip_forward=1
 
 ====================================================================================================================
 sudo kubeadm join 172.31.88.162:6443 --token hygvf7.rt4tlqihkbk8k191 --discovery-token-ca-cert-hash sha256:0f83294452b21d6c4394356db458b44d833e9629dd6e4d813b99f128fe4acf22 --v=5
-
-
-
 
 ========
 pipeline {
