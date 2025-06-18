@@ -1,3 +1,13 @@
+
+DevOps Lifecycle Implementation Plan
+Company: Analytics Pvt Ltd
+Repository: GitHub
+Goal: Automate deployment, scaling, and operation of Docker containers using Kubernetes
+Constraint: No changes to Docker containers from testing environment
+
+
+
+
 Terraform 
 
 =======terraform main.tf=============================
