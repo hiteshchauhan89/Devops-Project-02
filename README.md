@@ -78,12 +78,11 @@ Install Flannel for networking:
 kubectl apply -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml
 Add worker nodes using kubeadm join
 
-# 🚀 DevOps Capstone Project - Analytics Pvt Ltd
+# 🚀 DevOps Capstone Project
 
 This project is a full DevOps lifecycle implementation for a product-based organization using Docker, Jenkins, Kubernetes, Ansible, and Terraform. The goal is to automate deployment, scaling, and operation of application containers across a Kubernetes cluster, maintaining consistency with the Docker containers used in testing.
 
-The source code used in this project is hosted at:  
-👉 [https://github.com/hshar/website.git](https://github.com/hshar/website.git)
+
 
 ---
 
